@@ -41,6 +41,6 @@ Open-source scripts for processing and analyzing RNA structures
       用以实现配体标注的函数集
 - rfam/
   - [] cm_utils.py
-      读取协方差模型参数并计算的函数集 （调用infernal的api接口和python的重新实现~~（问题这个RfamGen是不是实现了）~~应该都有）
+      读取协方差模型参数并计算的函数集 （调用infernal的api接口和python的重新实现~~问题是不是优化RfamGen提供的逻辑就行了~~应该都有）
   - [] structure_download_label.py
       用于处理Rfam.pdb标注的结构的结构信息和rfam内的标注信息
